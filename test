@@ -1,0 +1,8 @@
+// var myNote="Get milk"
+// myNote = "Get cookies"
+
+log();
+var log = function() {
+  console.log(greeting);
+  var greeting = 'Hello!';
+}
